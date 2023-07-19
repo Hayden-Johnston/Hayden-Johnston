@@ -1,6 +1,7 @@
 ### 👋 Hello
 
 I'm a full stack developer in the US.
+Currently studying computer science - looking for internships and full time positions.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hgjohnston/)
 
